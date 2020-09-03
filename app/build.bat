@@ -1,1 +1,1 @@
-west build -d build\left -- -DSHIELD=lily58_left -DZMK_CONFIG="C:/Users/Kevin/zmk-config/config"
+west build -d build/left -- -DSHIELD=lily58_left -DZMK_CONFIG="C:/Users/Kevin/zmk-config/config"
